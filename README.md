@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @N0EV
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on games or apps
+- 💞️ I’m looking to collaborate on coding
