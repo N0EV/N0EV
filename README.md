@@ -1,4 +1,4 @@
-<h1> Hello i’m Noé </h1>
+<h1> Hello I’m Noé </h1>
 <ul>
   <li> 👨‍💻 I’m interested in Tech </li>
   <li> 🌱 I’m currently learning coding Html5 and Css </li>
