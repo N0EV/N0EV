@@ -2,6 +2,6 @@
 <ul>
   <li> 👨‍💻 I’m interested in Tech </li>
   <li> 🌱 I’m currently learning coding Html5 and Css </li>
-  <li> 💕 I’m looking to collaborate on coding with Friends </li>
-  <li> ☕ I’m love Coffe </li>
+  <li> 💕 I am looking to collaborate on coding with Friends </li>
+  <li> ☕ I love Coffe </li>
 </ul>
