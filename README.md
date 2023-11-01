@@ -1,4 +1,4 @@
-<h1> Hi There </h1>
+<h1> Hi There 👋🏻 </h1>
 <ul>
   <li> 👨‍💻 I’m interested in Tech </li>
   <li> 🌱 I’m currently learning coding Html5 and Css </li>
