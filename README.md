@@ -4,7 +4,7 @@
   <li> 🌱 I’m currently learning coding Html5 and Css </li>
   <li> 💕 I am looking to collaborate on coding with Friends </li>
   <li> ☕ I love <b>Coffe</b> </li>
-  <li> 🐲 Learning Hacking whith Kali</li>
+  <li> 🐲 Learning Hacking whith Kali </li>
 </ul>
 <h1>Tech skills 💻</h1>
 
