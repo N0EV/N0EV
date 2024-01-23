@@ -14,15 +14,19 @@ class NOEV():
 
 if __name__ == '__main__':
     me = NOEV()
-```
-<ul>
-  <li> 👨‍💻 I’m interested in Tech </li>
-  <li> 🌱 I’m currently learning coding Html5 and Css3 </li>
-  <li> 💕 I am looking to collaborate on coding with Friends </li>
-  <li> 🐲 Learning Hacking whith Kali </li>
-  <li> ☕ I love <b>Coffe</b> </li>
-</ul>
 
+func GetBio() Bio {
+	return Bio{
+                "- ⚡ Quick bio:":                    "Chico introvertido, que le gusta trastear con la informática",
+                "- 🌱 I’m currently learning":        "HTML5 Y CSS3",
+                "- 👯 I’m looking to collaborate on": "Something Interesting",
+                "- 📫 How to reach me:":              "https://bento.me/noe_vallad",
+                "- 🐲 How i am learning:":              "Learning with NTF and learning how to do pentesting",
+                "- ☕ "I Love COFFE",
+    }
+}
+
+```
 <h1> Tech skills </h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
