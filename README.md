@@ -1,11 +1,32 @@
-<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1> <!--This is the head-->
+<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
+
+```python
+class NOEV():
+    
+  def __init__(self):
+    self.name = "Noé Valladolid";
+    self.username = "NOEV";
+    self.socialname = "@noe_vallad";
+    self.location = "Salamanca, Spain";
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = NOEV()
+```
 <ul>
   <li> 👨‍💻 I’m interested in Tech </li>
-  <li> 🌱 I’m currently learning coding Html5 and Css </li>
+  <li> 🌱 I’m currently learning coding Html5 and Css3 </li>
   <li> 💕 I am looking to collaborate on coding with Friends </li>
   <li> 🐲 Learning Hacking whith Kali </li>
   <li> ☕ I love <b>Coffe</b> </li>
 </ul>
-<h1> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tech skills </h1>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+<h1> Tech skills </h1>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
+
+<h1> Tech tools </h1> <!--Aqui siempre ponerle un intro que si no funciona-->
+
+[![My Skills](https://skillicons.dev/icons?i=figma,github,linux,vscode,)](https://skillicons.dev)
