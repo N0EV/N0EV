@@ -17,12 +17,12 @@ if __name__ == '__main__':
 
 func GetBio() Bio {
 	return Bio{
-                "- ⚡ Quick bio:":                    "Chico introvertido, que le gusta trastear con la informática",
+                "- ⚡ Quick bio:":                    "Chico introvertid, amante de la informática",
                 "- 🌱 I’m currently learning":        "HTML5 Y CSS3",
-                "- 👯 I’m looking to collaborate on": "Something Interesting",
+                "- 👯 I’m looking to collaborate on": "En algo interesante",
                 "- 📫 How to reach me:":              "https://bento.me/noe_vallad",
-                "- 🐲 How i am learning:":              "Learning with NTF and learning how to do pentesting",
-                "- ☕ "I Love COFFE",
+                "- 🐲 How i am learning:":            "Aprendiendo sobre Hacking",
+                "- ☕ Bebidas favoritas:	       "COFFE",
     }
 }
 
