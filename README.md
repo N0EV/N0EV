@@ -22,7 +22,7 @@ func GetBio() Bio {
                 "- 👯 I’m looking to collaborate on": "En algo interesante",
                 "- 📫 How to reach me:":              "https://bento.me/noe_vallad",
                 "- 🐲 How i am learning:":            "Aprendiendo sobre Hacking",
-                "- ☕ Bebidas favoritas:	       "COFFE",
+                "- ☕ Bebidas favoritas":	       "COFFE",
     }
 }
 
