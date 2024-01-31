@@ -33,4 +33,4 @@ func GetBio() Bio {
 
 <h1> Tech tools </h1> <!--Aqui siempre ponerle un intro que si no funciona-->
 
-[![My Skills](https://skillicons.dev/icons?i=figma,github,linux,vscode,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,github,linux,vscode,bash,powershell,vim,)](https://skillicons.dev)
