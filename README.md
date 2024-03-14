@@ -12,7 +12,7 @@ func GetBio() Bio {
                 "- ⚡ Quick bio:":                    "Chico introvertid, amante de la informática",
                 "- 🌱 I’m currently learning":        "HTML5 Y CSS3",
                 "- 👯 I’m looking to collaborate on": "En algo interesante",
-                "- 📫 How to reach me:":              "https://bento.me/noe_vallad",
+                "- 📫 How to reach me:":              "https://bento.me/noevallad",
                 "- 🐲 How i am learning:":            "Aprendiendo sobre Hacking",
                 "- ☕ Bebidas favoritas":	       "COFFE",
     }
