@@ -5,15 +5,7 @@ class NOEV():
     
   def __init__(self):
     self.name = "Noé Valladolid";
-    self.username = "NOEV";
     self.socialname = "@noe_vallad";
-    self.location = "Salamanca, Spain";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = NOEV()
 
 func GetBio() Bio {
 	return Bio{
@@ -27,10 +19,13 @@ func GetBio() Bio {
 }
 
 ```
-<h1> Tech skills </h1>
+<h2> Programacion Y Lenguaje de marcado </h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
+[![Tech Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
-<h1> Tech tools </h1> <!--Aqui siempre ponerle un intro que si no funciona-->
+<h2> Herramientas </h2> <!--Aqui siempre ponerle un intro que si no funciona-->
 
-[![My Skills](https://skillicons.dev/icons?i=figma,github,linux,vscode,bash,powershell,vim,)](https://skillicons.dev)
+[![Mis herramientas](https://skillicons.dev/icons?i=figma,github,vscode,git,bash,powershell,vim,wordpress,)](https://skillicons.dev)
+<h2> Mis SO </h2>
+
+[![Mis SO](https://skillicons.dev/icons?i=debian,kali,linux,)](https://skillicons.dev)
