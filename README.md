@@ -28,4 +28,4 @@ func GetBio() Bio {
 [![Mis herramientas](https://skillicons.dev/icons?i=figma,github,vscode,git,bash,powershell,vim,wordpress,)](https://skillicons.dev)
 <h2> Mis SO </h2>
 
-[![Mis SO](https://skillicons.dev/icons?i=debian,kali,linux,)](https://skillicons.dev)
+[![Mis SO](https://skillicons.dev/icons?i=debian,kali,linux,windows,ubuntu,)](https://skillicons.dev)
