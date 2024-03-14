@@ -19,7 +19,7 @@ func GetBio() Bio {
 }
 
 ```
-<h2> Programacion Y Lenguaje de marcado </h2>
+<h2> lenguage skills </h2>
 
 [![Tech Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
