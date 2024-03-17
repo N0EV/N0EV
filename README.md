@@ -25,7 +25,7 @@ func GetBio() Bio {
 
 <h2> Herramientas </h2> <!--Aqui siempre ponerle un intro que si no funciona-->
 
-[![Mis herramientas](https://skillicons.dev/icons?i=figma,github,vscode,git,bash,powershell,vim,wordpress,)](https://skillicons.dev)
+[![Mis herramientas](https://skillicons.dev/icons?i=figma,github,vscode,git,bash,powershell,vim,wordpress&perline=4)](https://skillicons.dev)
 <h2> Mis SO </h2>
 
 [![Mis SO](https://skillicons.dev/icons?i=debian,kali,linux,windows,ubuntu,)](https://skillicons.dev)
