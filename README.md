@@ -3,18 +3,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0EV&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-```python
-func GetBio() Bio {
-	return Bio{
-                "- ⚡ Quick bio:":                    "Chico introvertid, amante de la informática",
-                "- 🌱 I’m currently learning":        "HTML5 Y CSS3",
-                "- 👯 I’m looking to collaborate on": "En algo interesante",
-                "- 📫 How to reach me:":              "https://bento.me/noevallad",
-                "- 🐲 How i am learning:":            "Aprendiendo sobre Hacking",
-                "- ☕ Bebidas favoritas":	       "COFFE",
-    }
-}
-```
 <h2> Lenguage skills </h2>
 
 [![Tech Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
