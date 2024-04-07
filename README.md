@@ -1,12 +1,9 @@
 <h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"></h1>
 
-```python
-class NOEV():
-    
-  def __init__(self):
-    self.name = "Noé Valladolid";
-    self.socialname = "@noe_vallad";
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N0EV&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
+```python
 func GetBio() Bio {
 	return Bio{
                 "- ⚡ Quick bio:":                    "Chico introvertid, amante de la informática",
@@ -17,7 +14,6 @@ func GetBio() Bio {
                 "- ☕ Bebidas favoritas":	       "COFFE",
     }
 }
-
 ```
 <h2> Lenguage skills </h2>
 
