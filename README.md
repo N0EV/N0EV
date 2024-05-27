@@ -7,7 +7,7 @@
 
 [![Tech Skills](https://skillicons.dev/icons?i=html,css,)](https://skillicons.dev)
 
-<h2> Herramientas </h2> <!--Aqui siempre ponerle un intro que si no funciona-->
+<h2> Herramientas </h2> <!--Aqui siempre ponerle un intro porque si no, no funciona-->
 
 [![Mis herramientas](https://skillicons.dev/icons?i=figma,github,vscode,git,bash,powershell,vim,wordpress&perline=4)](https://skillicons.dev)
 <h2> Mis SO </h2>
