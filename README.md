@@ -1,6 +1,6 @@
 # Hello World 👋
-<!--
-<img src=">
+<img src="Encabezado.gif" width="400px" height="auto" alt="Gif encabezado">
+
 ## About me
 * 👨🏻‍💻 I'm a computer science student.
 * 🤓 Learning HTML5, CSS3, Bash Scripting and Windows Bat.
@@ -9,7 +9,6 @@
 * ☕ Coffe & 🧋 Bublee tea addict.
 
 ## Tech Stacks
--->
 <!--
 **N0EV/N0EV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
