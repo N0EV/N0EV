@@ -17,29 +17,8 @@
 |![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)|![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)|![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)|![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)|
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=N0EV&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact)
-
-# 👷🏻‍♀️En Construcción 👷🏻‍♀️
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github-readme-stats.vercel.app/api?username=N0EV&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## Suport
 <a href='https://ko-fi.com/A0A3Z8V1G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-
-
