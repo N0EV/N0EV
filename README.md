@@ -1,5 +1,5 @@
 # Hello World 👋
-<img src="Encabezado.gif" width="328px" height="auto" alt="Gif encabezado">
+<img src="Encabezado.gif" width="328px" height="auto" alt="Gif encabezado"> [![](https://visitcount.itsvg.in/api?id=N0EV&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## About me
 * 👨🏻‍💻 I'm a computer science student.
