@@ -1,5 +1,9 @@
 # Hello World 👋
-<img src="Encabezado.gif" width="328px" height="auto" alt="Gif encabezado"> [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
+<!--
+<img src="Encabezado.gif" width="328px" height="auto" alt="Gif encabezado">
+-->
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## About me
 * 👨🏻‍💻 I'm a computer science student.
