@@ -5,7 +5,7 @@
 -->
 ## About me
 * 👨🏻‍💻 I'm a computer science student.
-* 🤓 Learning HTML5, CSS3, Bash Scripting and Windows Bat.
+* 🤓 Learning tech.
 * 🐧 Linux user.
 * 🎮 Nintendo lover.
 * ☕ Coffe & 🧋 Bublee tea addict.
