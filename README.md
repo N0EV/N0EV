@@ -4,7 +4,6 @@
 <img src="Encabezado.gif" width="328px" height="auto" alt="Gif encabezado">
 -->
 ## About me
-* 👨🏻‍💻 I'm a computer science student.
 * 🤓 Learning tech.
 * 🐧 Linux user.
 * 🎮 Nintendo lover.
