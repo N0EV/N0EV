@@ -1,4 +1,4 @@
-### Hello World 👋
+# Hello World 👋🏻
 
 <!--
 <img src="Encabezado.gif" width="328px" height="auto" alt="Gif encabezado">
