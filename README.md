@@ -11,7 +11,20 @@
 * ☕ Coffe & 🧋 Bublee tea addict.
 
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact&theme=nightowl&hide_border=false"/>
+<!--
+# Mas stats
 
+< Copy-paste in your Readme.md file>
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=131699900" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=131699900&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @N0EV" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=131699900&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<Made with [OSS Insight](https://ossinsight.io/) >
+-->
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=N0EV&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)
