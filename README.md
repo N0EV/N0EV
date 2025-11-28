@@ -10,8 +10,7 @@
 * 🎮 Nintendo lover.
 * ☕ Coffe & 🧋 Bublee tea addict.
 
-<!-- Hay un error cuando lo solucione o solucionen volvere a poner las estadisticas
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact&theme=tokyonight&hide_border=false"/> -->
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact&theme=tokyonight&hide_border=false"/>
 <!--
 # Mas stats
 
