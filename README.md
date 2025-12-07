@@ -9,8 +9,8 @@
 * 🐧 Linux user.
 * 🎮 Nintendo lover.
 * ☕ Coffe & 🧋 Bublee tea addict.
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact&theme=tokyonight&hide_border=false"/>
+<!--
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0EV&layout=compact&theme=tokyonight&hide_border=false"/> -->
 <!--
 # Mas stats
 
