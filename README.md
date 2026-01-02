@@ -19,7 +19,6 @@ innie@lumon_os:~$ ./soporte.sh
 > https://ko-fi.com/noe_vallad
 
 innie@lumon_os:~$ exit
-logout
 Connection to lumon.internal closed.
 > "Praise Kier. You are now leaving the severed floor."
 ```
