@@ -11,7 +11,7 @@ total 24
 innie@lumon_os:~$ cat herramientas.txt
 > OS: Debian, Ubuntu Server, Windows Server
 > REDES: Cisco Packet Tracer, Wireshark, Putty/SSH
-> VIRTUALIZACIÓN: VMware, VirtualBox, Proxmox
+> VIRTUALIZACIÓN: VirtualBox
 > TOOLS: Bash, Git, VS Code
 
 innie@lumon_os:~$ ./soporte.sh
