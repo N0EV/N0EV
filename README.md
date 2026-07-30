@@ -24,4 +24,4 @@ N0EV@Github:~\$ cat contact.cfg
 EMAIL="noevalladolid@proton.me"
 ```
 
-🟢 **[htb://join-daemon777](https://hackthebox.com)** — *¡Click aquí para enviar tu solicitud al equipo!* | [EMAIL](mailto:noevalladolid@proton.me)
+🟢 **[htb://join-daemon777](https://app.hackthebox.com/public/teams/9078)** — *¡Click aquí para enviar tu solicitud al equipo!* | [EMAIL](mailto:noevalladolid@proton.me)
