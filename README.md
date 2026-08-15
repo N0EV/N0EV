@@ -15,13 +15,19 @@ N0EV@Github:~\$ head -n 2 status.dat
 STATUS="Estudiando & buscando oportunidades laborales (no activo)"
 TARGET="Junior DevOps / Security Analyst"
 
-N0EV@Github:~\$ ./recruitment_filter.sh --location=Salamanca
-[+] Target: Estudiantes / Apasionados del Pentesting en Salamanca
-[!] Mensaje: Si eres de la zona y te mola la ciberseguridad, ¡únete a Daemon777!
-[!] Objetivo: Hacer piña local para darle caña juntos a Hack The Box.
-
 N0EV@Github:~\$ cat contact.cfg
 EMAIL="noevalladolid@proton.me"
 ```
 
-🟢 **[htb://join-daemon777](https://app.hackthebox.com/public/teams/9078)** — *¡Click aquí para enviar tu solicitud al equipo!* | [EMAIL](mailto:noevalladolid@proton.me)
+<table border="1" cellpadding="5" cellspacing="0" bgcolor="#EBEADB" bordercolor="#FFFFFF" style="border-collapse:collapse; border: 2px solid #9C9A83;">
+  <tr>
+    <td style="border: 1px solid #FFF; border-right: 1px solid #ACA899; border-bottom: 1px solid #ACA899;">
+      <font face="Tahoma" size="2">
+        <a href="mailto:noevalladolid@proton.me" style="text-decoration:none; color:#000000;">
+          📬 <b>Enviar Correo</b>
+        </a>
+      </font>
+    </td>
+  </tr>
+</table>
+
